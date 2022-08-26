@@ -5,7 +5,7 @@
     "name": "John Smith",
     "gender": "Male",
     "age": "22",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://via.placeholder.com/100",
     "medicines": [
       "a",
       "b",
@@ -34,7 +34,7 @@
     "name": "Gray Smith",
     "gender": "Female",
     "age": "25",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://via.placeholder.com/100",
     "medicines": [
       "a",
       "b",
@@ -56,7 +56,7 @@
     "name": "Sansa Starck",
     "gender": "Female",
     "age": "19",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://via.placeholder.com/100",
     "medicines": [
       "a",
       "b",
@@ -79,7 +79,7 @@
     "name": "John Snow",
     "gender": "Male",
     "age": "30",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://via.placeholder.com/100",
     "medicines": [
       "n",
       "o",
@@ -95,7 +95,7 @@
     "name": "White Wallker",
     "gender": "Male",
     "age": "85",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://via.placeholder.com/100",
     "medicines": [
       "a",
       "b",
@@ -106,7 +106,7 @@
     "name": "Jeny Stiffen",
     "gender": "Female",
     "age": "25",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://via.placeholder.com/100",
     "medicines": [
       "a",
       "b",
